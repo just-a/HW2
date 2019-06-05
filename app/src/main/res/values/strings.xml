@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="Settings">Settings</string>
+    <string name="name">name</string>
+    <string name="localization">localization</string>
+    <string name="description">description</string>
+    <string name="add">ADD</string>
+    <string name="item_selected_msg">Book selected</string>
+    <string name="delete_question">Are you sure you want to delete this attraction?</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="cancel_msg">Action canceled</string>
+    <string name="delete_dialog_tag">delete dialog tag</string>
+    <string name="retry_msg">Retry</string>
+    <string name="myFileprovider">com.example.myapplication.fileprovider</string>
+</resources>
